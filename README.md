@@ -1,5 +1,4 @@
 # Object-Oriented Programming (OOP)
-Basic OOP tasks
 
 ### Zoo Project
 An application for storing information about train passengers. Ensure proper memory management, code encapsulation, and implemention the following functionality:
